@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LeaseOrRentHome Inc.</string>
+    <string name="todo">TODO</string>
+    <string name="button">Enter</string>
+    <string name="textview">Home Types:</string>
+    <string name="Apartment">Apartment</string>
+    <string name="DetHome">Detached Home</string>
+    <string name="semiDetHome">Semi-Detached Home</string>
+    <string name="condoHome">Condominium Apartment</string>
+    <string name="townHouse">Town House</string>
+    <string name="homeTextView">homeTextView</string>
+</resources>
